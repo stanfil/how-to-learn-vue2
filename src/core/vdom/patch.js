@@ -1,3 +1,7 @@
+/**
+ * patch 把 old VNode 更新为 new VNode
+ */
+
 import * as nodeOps from './node-ops'
 import VNode from './vnode'
 
